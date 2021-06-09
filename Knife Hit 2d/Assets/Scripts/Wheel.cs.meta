@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c0f6281ee7dc9454ba424b7a97c0efc0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firstWheel: {instanceID: 0}
+  - secondWheel: {instanceID: 0}
+  - thirdWheel: {instanceID: 0}
+  - applePrefab: {instanceID: 0}
+  - knifePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
